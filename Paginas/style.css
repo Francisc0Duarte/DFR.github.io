@@ -100,6 +100,7 @@
     overflow: hidden;
   }
   .icon{
+    background: white;
     display: block;
     height: 50px;
     width: 50px;
