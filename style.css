@@ -82,6 +82,7 @@
   text-align: justify;
 }
 .icon{
+  background: white;
   color:#3CBBB1;
   font-size: 20px;
   cursor: pointer;
