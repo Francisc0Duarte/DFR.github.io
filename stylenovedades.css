@@ -61,11 +61,11 @@
   transition: all 0.3s ease;
 }
 .menu-list li a:hover{
-  color:#8000FF;
+  color:#8000FF ;
 }
 .banner{
   height: 100vh;
-  background: url("banner/BANER2.jpg") no-repeat;
+  background: url("banner/BANER4.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
